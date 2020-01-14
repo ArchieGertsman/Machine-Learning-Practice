@@ -1,0 +1,1 @@
+Problem **11.2** asks to build a naive Bayes classifier from scratch to predict whether a student's final grade will be above or below a threshold. Each student is described by features including age, sex, family size, study time, etc. More can be found [here](https://archive.ics.uci.edu/ml/datasets/Student+Performance).

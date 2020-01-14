@@ -1,1 +1,3 @@
-Problem **11.2** asks to build a naive Bayes classifier from scratch to predict whether a student's final grade will be above or below a threshold. Each student is described by features including age, sex, family size, study time, etc. More can be found [here](https://archive.ics.uci.edu/ml/datasets/Student+Performance).
+Problem **11.2** asks to build a naive Bayes classifier from scratch to predict whether a student's final grade will be above or below a threshold. Each student is described by features including age, sex, family size, study time, etc. More on the data can be found [here](https://archive.ics.uci.edu/ml/datasets/Student+Performance). 
+
+The problem also asks to estimate the classifier's accuracy using cross-validation with at least 10 folds, and to report the mean and standard deviation of the accuracy over the folds.
